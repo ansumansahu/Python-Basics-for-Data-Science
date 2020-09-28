@@ -1,2 +1,2 @@
 # Python-Basics-for-Data-Science
-EDX Online Course 
+edX Online Course 
